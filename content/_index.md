@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: hero
     content:
-      title: Hugo Academic Theme
+      title: Welcome To Our Lab
       image:
         filename: hero-academic.png
       cta:
