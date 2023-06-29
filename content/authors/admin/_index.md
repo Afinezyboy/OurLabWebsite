@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Chen Zhang 张琛
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Chen
+last_name: Zhang
 
 # Status emoji
 status:
@@ -14,21 +14,21 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: 上海交通大学长聘轨道副教授
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: 上海交通大学
+    url: https://www.sjtu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Chen Zhang received the B.Eng. degree from the China Uni-versity of Mining and Technology, China, and the Ph.D. from Shanghai Jiao Tong University, China, in 2011 and 2018 respectively. He was a Postdoctoral Research Fellow at the Department of Engineering Cybernetics of NTNU, from March 2018 to October 2020, and a postdoctoral researcher with the Department of Electrical Engineering, Technical Uni-versity of Denmark, Lyngby, Denmark, from November 2020 to October 2021. He is currently a tenure-track Associate Pro-fessor with the Department of Electrical Engineering, Shang-hai Jiao Tong University, Shanghai, China. His research inter-est is modeling and stability analysis of VSC-based energy conversion systems, where the aim is to reveal the fundamental dynamics and stability mechanisms of renewable energies with VSCs as the grid interface. He is an Associate Editor for the IEEE Transactions on Energy Conversion. 
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 新能源发电并网控制技术
+  - 电力电子化电力系统机理刻画与动力系统分析
+  - 人工智能在电力电子中的应用
 
 # Education to show in About widget
 education:
