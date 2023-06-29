@@ -22,7 +22,7 @@ organizations:
     url: https://www.sjtu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Chen Zhang received the B.Eng. degree from the China Uni-versity of Mining and Technology, China, and the Ph.D. from Shanghai Jiao Tong University, China, in 2011 and 2018 respectively. He was a Postdoctoral Research Fellow at the Department of Engineering Cybernetics of NTNU, from March 2018 to October 2020, and a postdoctoral researcher with the Department of Electrical Engineering, Technical Uni-versity of Denmark, Lyngby, Denmark, from November 2020 to October 2021. He is currently a tenure-track Associate Pro-fessor with the Department of Electrical Engineering, Shang-hai Jiao Tong University, Shanghai, China. His research inter-est is modeling and stability analysis of VSC-based energy conversion systems, where the aim is to reveal the fundamental dynamics and stability mechanisms of renewable energies with VSCs as the grid interface. He is an Associate Editor for the IEEE Transactions on Energy Conversion. 
+bio: Chen Zhang received the B.Eng. degree from the China Uni-versity of Mining and Technology, China, and the Ph.D. from Shanghai Jiao Tong University, China, in 2011 and 2018 respectively. 
 
 # Interests to show in About widget
 interests:
@@ -33,15 +33,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: 电气工程，博士
+      institution: 电气工程，博士
+      year: 2011.09-2018.03
+    - course: 电气工程与自动化，学士
+      institution: 中国矿业大学
+      year: 2007.09-2011.06
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -80,5 +77,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Chen Zhang received the B.Eng. degree from the China Uni-versity of Mining and Technology, China, and the Ph.D. from Shanghai Jiao Tong University, China, in 2011 and 2018 respectively. He was a Postdoctoral Research Fellow at the Department of Engineering Cybernetics of NTNU, from March 2018 to October 2020, and a postdoctoral researcher with the Department of Electrical Engineering, Technical Uni-versity of Denmark, Lyngby, Denmark, from November 2020 to October 2021. He is currently a tenure-track Associate Pro-fessor with the Department of Electrical Engineering, Shang-hai Jiao Tong University, Shanghai, China. His research inter-est is modeling and stability analysis of VSC-based energy conversion systems, where the aim is to reveal the fundamental dynamics and stability mechanisms of renewable energies with VSCs as the grid interface. He is an Associate Editor for the IEEE Transactions on Energy Conversion. 
 {style="text-align: justify;"}
